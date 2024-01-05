@@ -17,4 +17,4 @@ This project demonstrates a simple HTML and CSS setup for a webpage with a backg
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rahul-hytrox/OverlyTextWithFireBackground
+   https://github.com/rahul-hytrox/OverlyTextWithFireBackground.git
