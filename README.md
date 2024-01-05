@@ -10,7 +10,6 @@ This project demonstrates a simple HTML and CSS setup for a webpage with a backg
 
 - HTML
 - CSS
--clip/video
 
 ## How to Use
 
